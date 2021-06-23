@@ -1,0 +1,1 @@
+a:4:{s:5:"value";s:83:"http://localhost/Main/wp-content/uploads/2021/05/54-post_image_2-scaled-150x150.jpg";s:10:"write_time";i:1622037373;s:10:"expired_in";i:2592000;s:12:"expired_time";i:1624629373;}

@@ -1,0 +1,49 @@
+/* 
+Theme Name: Kenze
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+#wpadminbar {
+  position: fixed;
+}
+
+.sfsiplus_footerLnk {
+  display: none;
+}
+
+div.sfsi_shortcode_container .sfsi_wicons {
+  z-index: 0 !important;
+}
+
+.img-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.archive-page .container .posts article .img-box {
+  box-shadow: 0 3px 12px -1px rgb(7 10 25 / 20%),
+    0 22px 27px -20px rgb(7 10 25 / 20%);
+}
